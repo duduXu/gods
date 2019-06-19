@@ -9,7 +9,7 @@ import (
 	"github.com/emirpasic/gods/utils"
 )
 
-// ArrayListExample to demonstrate basic usage of ArrayList
+// ArrayList 基本用法
 func main() {
 	list := arraylist.New()
 	list.Add("a")                         // ["a"]
